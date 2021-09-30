@@ -65,9 +65,22 @@
 
 ### 首頁/文章
 
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/482">個人申請制應繳資料下載系統開放測試</a>
+    1. <a href="https://school.overseas.ncnu.edu.tw:8443/review/login.html">測試系統連結</a>
+
 + <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/639">用愛「罩」尼泊爾　中央大學與婦女新知協會攜手合作</a>
     - 防疫專題-資料來源
         1. <a href="https://www.ncu.edu.tw/campus/article/2402">國立中央大學</a>
+
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/640">智慧型「呼吸器警報系統」　看見台灣的醫療研發能量</a>
+    - 防疫專題-資料來源
+        1. <a href="https://www.ncu.edu.tw/campus/article/2394">國立中央大學</a>
+
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/642">因應疫情　中央大學首創「虛擬企業博覽會」</a>
+    - 「2020英雄之路虛擬企業博覽會」官網
+        1. <a href="https://careercenter.ncu.edu.tw/campustalent/">相關連結</a>
+    - 防疫專題-資料來源
+        1. <a href="https://www.ncu.edu.tw/campus/article/2396">國立中央大學</a>
 
 + <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/643">中央大學「防疫志工」成軍　另類服務學習</a>
     - 防疫專題-資料來源
@@ -93,8 +106,18 @@
     - 防疫專題-資料來源
         1. <a href="https://www.ncu.edu.tw/campus/article/2379">防疫學習不中斷，中大推出線上教學與虛擬桌面平台</a>
 
-
-
 + <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/676">提供師生安心環境</a>
     1. <a href="http://www2.nhu.edu.tw/">南華大學</a>
+
+#### 榜單查詢2020年錄取公告拒絕存取沒有權限，以下的文章都有引用
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/586">【公告】海外聯合招生委員會108學年度國立臺灣師範大學僑生先修部馬來西亞春季班錄取名單</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/610">109學年度學士班及研究所「個人申請」延後放榜公告</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/613">【公告】海外聯合招生委員會109學年度學士班「個人申請」及「研究所」碩、博士班錄取名單</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/616">【公告】海外聯合招生委員會109學年度「聯合分發」第1梯次錄取名單</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/620">【公告】2020年印尼僑生來臺升學輔導訓練班名單已公告</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/623">【公告】海外聯合招生委員會109學年度香港副學士（或高級文憑）學生來臺升讀技術校院二年制學士班錄取名單</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/627">【公告】海外聯合招生委員會109學年度「聯合分發」第2梯次錄取名單</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/629">【公告】海外聯合招生委員會109學年度「聯合分發」第3梯次錄取名單</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/713">【公告】海外聯合招生委員會109學年度「聯合分發」第5梯次錄取名單</a>
+
 
