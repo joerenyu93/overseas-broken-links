@@ -73,8 +73,7 @@
     - 防疫專題-資料來源
         1. <a href="http://www.hwai.edu.tw/secretary/pub/News.asp?ctyp=NEWS&catid=1884&ctxid=5977">中華醫事科技大學</a>
 
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/653">中華醫大師生自製養生馬芬米穀蛋糕慰勉醫護人員辛勞
-</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/653">中華醫大師生自製養生馬芬米穀蛋糕慰勉醫護人員辛勞</a>
     - 防疫專題-資料來源
         1. <a href="http://www.hwai.edu.tw/secretary/pub/News.asp?ctyp=NEWS&catid=1884&ctxid=6019">中華醫事科技大學</a>
 
