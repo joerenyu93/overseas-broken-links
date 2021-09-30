@@ -59,11 +59,25 @@
 
 1. <a href="https://school.overseas.ncnu.edu.tw/result/">中英文姓氏、出生年月日及性別等條件確認錄取結果</a>
 
+### <a href="https://cmn-hant.overseas.ncnu.edu.tw/from/philippines">首頁/菲律賓專區</a>
+
+1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/inline-files/2021%E6%B5%B7%E5%A4%96%E8%81%AF%E6%8B%9B%E6%9C%83%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%83%91%E7%94%9F%E8%B5%B4%E8%87%BA%E5%8D%87%E5%AD%B8%E5%A0%B1%E5%90%8D%E6%B5%81%E7%A8%8B%E7%B0%A1%E4%BB%8B-%E5%80%8B%E4%BA%BA%E7%94%B3%E8%AB%8B.pdf">2021海外聯招會菲律賓僑生赴臺升學報名流程簡介.PDF</a>
+
+### <a href="https://cmn-hant.overseas.ncnu.edu.tw/universities/cycu">首頁/UNIVERSITIES/中原大學</a>
+
+1. 圖片失效
+
+### <a href="https://cmn-hant.overseas.ncnu.edu.tw/Macao-Taiwan-Higher-Education">首頁/澳門臺灣高等教育展</a>
+    - 三、活動資訊下載-第5點各校匯款水單上傳順序表
+        1. <a href="https://school.overseas.ncnu.edu.tw/filemtime/macau_education_fair_2019.html">按此連結的“連結”</a>
+        
+### <a href="https://cmn-hant.overseas.ncnu.edu.tw/MalaysiaEducation">首頁/2020年馬來西亞臺灣高等教育展</a>
+    - 二、重要活動資訊-第1點各校上傳水單順序
+        1. <a href="https://school.overseas.ncnu.edu.tw/filemtime/my_education_fair_2020.html">[點此前往]</a>
+
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/article?page=9">首頁/ARTICLE</a>
 
 1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2020">榜單查詢2020年錄取公告</a>
-
-### 首頁/文章
 
 + <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/482">個人申請制應繳資料下載系統開放測試</a>
     1. <a href="https://school.overseas.ncnu.edu.tw:8443/review/login.html">測試系統連結</a>
@@ -109,15 +123,15 @@
 + <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/676">提供師生安心環境</a>
     1. <a href="http://www2.nhu.edu.tw/">南華大學</a>
 
-#### 榜單查詢2020年錄取公告拒絕存取沒有權限，以下的文章都有引用
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/586">【公告】海外聯合招生委員會108學年度國立臺灣師範大學僑生先修部馬來西亞春季班錄取名單</a>
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/610">109學年度學士班及研究所「個人申請」延後放榜公告</a>
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/613">【公告】海外聯合招生委員會109學年度學士班「個人申請」及「研究所」碩、博士班錄取名單</a>
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/616">【公告】海外聯合招生委員會109學年度「聯合分發」第1梯次錄取名單</a>
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/620">【公告】2020年印尼僑生來臺升學輔導訓練班名單已公告</a>
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/623">【公告】海外聯合招生委員會109學年度香港副學士（或高級文憑）學生來臺升讀技術校院二年制學士班錄取名單</a>
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/627">【公告】海外聯合招生委員會109學年度「聯合分發」第2梯次錄取名單</a>
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/629">【公告】海外聯合招生委員會109學年度「聯合分發」第3梯次錄取名單</a>
-+ <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/713">【公告】海外聯合招生委員會109學年度「聯合分發」第5梯次錄取名單</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2020">榜單查詢2020年錄取公告</a>拒絕存取沒有權限，以下的文章都有引用
+    1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/586">【公告】海外聯合招生委員會108學年度國立臺灣師範大學僑生先修部馬來西亞春季班錄取名單</a>
+    2. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/610">109學年度學士班及研究所「個人申請」延後放榜公告</a>
+    3. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/613">【公告】海外聯合招生委員會109學年度學士班「個人申請」及「研究所」碩、博士班錄取名單</a>
+    4. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/616">【公告】海外聯合招生委員會109學年度「聯合分發」第1梯次錄取名單</a>
+    5. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/620">【公告】2020年印尼僑生來臺升學輔導訓練班名單已公告</a>
+    6. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/623">【公告】海外聯合招生委員會109學年度香港副學士（或高級文憑）學生來臺升讀技術校院二年制學士班錄取名單</a>
+    7. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/627">【公告】海外聯合招生委員會109學年度「聯合分發」第2梯次錄取名單</a>
+    8. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/629">【公告】海外聯合招生委員會109學年度「聯合分發」第3梯次錄取名單</a>
+    9. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/713">【公告】海外聯合招生委員會109學年度「聯合分發」第5梯次錄取名單</a>
 
 
