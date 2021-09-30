@@ -1,4 +1,4 @@
-# 海聯首頁失效連結
+# 海聯網站失效連結
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/acts">首頁/來台就學相關法規</a>
 + 助學金列表
