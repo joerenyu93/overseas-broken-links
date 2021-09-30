@@ -77,8 +77,6 @@
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/article?page=9">首頁/ARTICLE</a>
 
-1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2020">榜單查詢2020年錄取公告</a>
-
 + <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/482">個人申請制應繳資料下載系統開放測試</a>
     1. <a href="https://school.overseas.ncnu.edu.tw:8443/review/login.html">測試系統連結</a>
 
@@ -139,20 +137,20 @@
     1. <a href="https://en.overseas.ncnu.edu.tw/user/1">https://en.overseas.ncnu.edu.tw/user/1</a>
     2. <a href="https://cmn-hant.overseas.ncnu.edu.tw/user/210">https://cmn-hant.overseas.ncnu.edu.tw/user/210</a>
     3. <a href="https://cmn-hant.overseas.ncnu.edu.tw/user/210">https://cmn-hant.overseas.ncnu.edu.tw/user/210</a>
-###### 這應該是發佈文章用戶的關係？
+###### `這應該是發佈文章用戶的關係？`
 
 ### 在<a href="https://cmn-hant.overseas.ncnu.edu.tw/">首頁</a>和<a href="https://cmn-hant.overseas.ncnu.edu.tw/node">首頁</a>裡找不到這兩個網址
 1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2021</body></html>">https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2021</body></html></a>
 2. <a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-noti</body></html>">https://cmn-hant.overseas.ncnu.edu.tw/admission-noti</body></html></a>
-###### 以上兩個應該是首頁底下HOT PRESS ARTICLE對<a href="https://cmn-hant.overseas.ncnu.edu.tw/node/828">【公告】海外聯合招生委員會110學年度香港及緬甸地區自願申請臺師大僑先部錄取結果</a>和<a href="https://cmn-hant.overseas.ncnu.edu.tw/node/829">【公告】海外聯合招生委員會110學年度「聯合分發」第5梯次錄取結果</a>這兩篇文章裡引用<a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2021">首頁/2021 年錄取公告</a>內容縮減的關係才會找不到，實際兩篇文章裡測試<a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2021">首頁/2021 年錄取公告</a>是正常的。
+###### 以上兩個應該是首頁底下HOT PRESS ARTICLE對<a href="https://cmn-hant.overseas.ncnu.edu.tw/node/828">【公告】海外聯合招生委員會110學年度香港及緬甸地區自願申請臺師大僑先部錄取結果</a>和<a href="https://cmn-hant.overseas.ncnu.edu.tw/node/829">【公告】海外聯合招生委員會110學年度「聯合分發」第5梯次錄取結果</a>這兩篇文章裡引用<a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2021">首頁/2021 年錄取公告</a>的內容縮減的關係才會找不到，實際兩篇文章裡測試<a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2021">首頁/2021 年錄取公告</a>是正常的。
 
 ### 在<a href="https://cmn-hant.overseas.ncnu.edu.tw/">首頁/單獨招生專區</a>裡找不到這個報名連結
 1. <a href="http://oia.ncu.edu.tw/index.php/tw/2013-03-21-10-17-02/僑生港澳生單獨招生.html</body></html>">http://oia.ncu.edu.tw/index.php/tw/2013-03-21-10-17-02/僑生港澳生單獨招生.html</body></html></a>
-###### 看連結應該是以前的報名網址
+###### `看連結應該是以前的報名網址`
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/wb-mc_2020/mobile/index.html?utm_source=FB&utm_medium=selfpost&utm_campaign=MacauGuidanceEBook20&fbclid=IwAR1DxfRD-zBr1dTB65R0fKT0g-phAiS71tD-gXTk1i1YozwhzsUo4ZaI19s#p=%20">2020臺灣高等院校-升學指南</a>電子書裡找不到這個連結
 1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/wb-mc_2020/mobile/files/basic-html/index.html</body></html>">https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/wb-mc_2020/mobile/files/basic-html/index.html</a>
-###### 測試翻看電子書也找不到連結
+###### `測試翻看電子書也找不到連結`
 
 ### 以下文章會自動跳轉到別的網址，在<a href="https://cmn-hant.overseas.ncnu.edu.tw/article?page=9">首頁/ARTICLE</a>列表裡找不到這些文章
 1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/755">【公告】海外聯合招生委員會108學年度國立臺灣師範大學僑生先修部馬來西亞春季班錄取名單</a>
