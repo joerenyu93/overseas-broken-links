@@ -139,6 +139,7 @@
     1. <a href="https://en.overseas.ncnu.edu.tw/user/1">https://en.overseas.ncnu.edu.tw/user/1</a>
     2. <a href="https://cmn-hant.overseas.ncnu.edu.tw/user/210">https://cmn-hant.overseas.ncnu.edu.tw/user/210</a>
     3. <a href="https://cmn-hant.overseas.ncnu.edu.tw/user/210">https://cmn-hant.overseas.ncnu.edu.tw/user/210</a>
+###### 這應該是發佈文章用戶的關係？
 
 ### 在<a href="https://cmn-hant.overseas.ncnu.edu.tw/">首頁</a>和<a href="https://cmn-hant.overseas.ncnu.edu.tw/node">首頁</a>裡找不到這兩個網址
 1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2021</body></html>">https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2021</body></html></a>
@@ -147,9 +148,11 @@
 
 ### 在<a href="https://cmn-hant.overseas.ncnu.edu.tw/">首頁/單獨招生專區</a>裡找不到這個報名連結
 1. <a href="http://oia.ncu.edu.tw/index.php/tw/2013-03-21-10-17-02/僑生港澳生單獨招生.html</body></html>">http://oia.ncu.edu.tw/index.php/tw/2013-03-21-10-17-02/僑生港澳生單獨招生.html</body></html></a>
+###### 看連結應該是以前的報名網址
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/wb-mc_2020/mobile/index.html?utm_source=FB&utm_medium=selfpost&utm_campaign=MacauGuidanceEBook20&fbclid=IwAR1DxfRD-zBr1dTB65R0fKT0g-phAiS71tD-gXTk1i1YozwhzsUo4ZaI19s#p=%20">2020臺灣高等院校-升學指南</a>電子書裡找不到這個連結
 1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/wb-mc_2020/mobile/files/basic-html/index.html</body></html>">https://cmn-hant.overseas.ncnu.edu.tw/sites/default/files/wb-mc_2020/mobile/files/basic-html/index.html</a>
+###### 測試翻看電子書也找不到連結
 
 ### 以下文章會自動跳轉到別的網址，在<a href="https://cmn-hant.overseas.ncnu.edu.tw/article?page=9">首頁/ARTICLE</a>列表裡找不到這些文章
 1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/755">【公告】海外聯合招生委員會108學年度國立臺灣師範大學僑生先修部馬來西亞春季班錄取名單</a>
@@ -157,10 +160,10 @@
 3. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/757">【公告】海外聯合招生委員會109學年度學士班「個人申請」及「研究所」碩、博士班錄取名單</a>
 4. <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/762">【公告】海外聯合招生委員會109學年度「聯合分發」第1梯次錄取名單</a>
 
-### 以下為連結正常
+### 以下為連結測試正常
 
 + <a href="https://cmn-hant.overseas.ncnu.edu.tw/student-achievement">首頁/僑生成就</a>
     1. <a href="https://www.taiwan-panorama.com/tw/show_issue.php?id=201370207074C.TXT&table=0&h1=&h2=">【香港僑生】用愛扭轉非洲愛滋病困局 -余廣亮醫師(截自台灣光華雜誌Taiwan Panorama)</a>
  
- + <a href="https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment">首頁/單獨招生專區</a>
++ <a href="https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment">首頁/單獨招生專區</a>
     1. <a href="https://edu.ypu.edu.tw/p/412-1011-5489.php">元培醫事科技大學-報名連結</a>
