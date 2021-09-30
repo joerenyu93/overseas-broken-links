@@ -59,6 +59,10 @@
 
 1. <a href="https://school.overseas.ncnu.edu.tw/result/">中英文姓氏、出生年月日及性別等條件確認錄取結果</a>
 
+### <a href="https://cmn-hant.overseas.ncnu.edu.tw/article?page=9">首頁/ARTICLE</a>
+
+1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2020">榜單查詢2020年錄取公告</a>
+
 ### 首頁/文章
 
 + <a href="https://cmn-hant.overseas.ncnu.edu.tw/node/639">用愛「罩」尼泊爾　中央大學與婦女新知協會攜手合作</a>
