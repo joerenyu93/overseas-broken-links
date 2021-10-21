@@ -16,12 +16,12 @@
 + 其他列表
     1. <a href="http://www.ocac.gov.tw/law/">更多僑教法規</a>
 
-### <a href="https://cmn-hant.overseas.ncnu.edu.tw/student-achievement">首頁/僑生成就</a>
+### <a href="https://cmn-hant.overseas.ncnu.edu.tw/student-achievement">首頁/僑生成就</a>更換URL或直接砍掉
 
 1. <a href="http://www.macroview.com.tw/mag/macroview/article_story.jsp?ART_ID=176729">【馬來西亞僑生】大馬僑生導演台灣發光(截自宏觀僑務新聞網)</a>
 2. <a href="http://www.macroview.com.tw/mag/macroview/article_story.jsp?ART_ID=152688">【韓國僑生】從僑生到國策顧問郝明義把中文推向世界(截自宏觀僑務新聞網)</a>
 
-### <a href="https://cmn-hant.overseas.ncnu.edu.tw/universities">首頁/UNIVERSITIES(已修復)</a>
+### <a href="https://cmn-hant.overseas.ncnu.edu.tw/universities">首頁/UNIVERSITIES</a>(已修復)
 
 + 各圖上的(國立大學、私立大學、國立科大、私立科大、北部、中部、東部、南部、離島外島）連結找不到網頁
     1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/portfolio?field_category_target_id=26">國立大學</a>
