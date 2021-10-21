@@ -23,7 +23,7 @@
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/universities">首頁/UNIVERSITIES</a>(已修復)
 
-+ 各圖上的(國立大學、私立大學、國立科大、私立科大、北部、中部、東部、南部、離島外島）連結找不到網頁
++ 各圖上的(國立大學、私立大學、國立科大、私立科大、北部、中部、東部、南部、離島外島）連結找不到網頁(URL裡的portfolio改成universities)
     1. <a href="https://cmn-hant.overseas.ncnu.edu.tw/portfolio?field_category_target_id=26">國立大學</a>
     2. <a href="https://cmn-hant.overseas.ncnu.edu.tw/portfolio?field_category_target_id=27">私立大學</a>
     3. <a href="https://cmn-hant.overseas.ncnu.edu.tw/portfolio?field_category_target_id=28">國立科大</a>
@@ -44,7 +44,7 @@
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment">首頁/單獨招生專區</a>
 
-1. <a href="https://ocsadm.oia.ncku.edu.tw/index.php?indi=">國立大學-報名網址</a>
+1. <a href="https://ocsadm.oia.ncku.edu.tw/index.php?indi=">國立大學-報名網址</a>(最後多了“=”)
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/universities/tcmt">首頁/UNIVERSITIES/台北海洋科技大學</a>
 
