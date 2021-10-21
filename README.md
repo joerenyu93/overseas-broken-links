@@ -56,7 +56,7 @@
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2019">首頁/2019 年錄取公告</a>
 
-1. <a href="https://school.overseas.ncnu.edu.tw/result/">中英文姓氏、出生年月日及性別等條件確認錄取結果</a>
+1. <a href="https://school.overseas.ncnu.edu.tw/result/">中英文姓氏、出生年月日及性別等條件確認錄取結果</a>(暫時把連結拿掉)
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/from/philippines">首頁/菲律賓專區</a>
 
@@ -68,11 +68,11 @@
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/Macao-Taiwan-Higher-Education">首頁/澳門臺灣高等教育展</a>
 + 三、活動資訊下載-第5點各校匯款水單上傳順序表
-    1. <a href="https://school.overseas.ncnu.edu.tw/filemtime/macau_education_fair_2019.html">按此連結的“連結”</a>
+    1. <a href="https://school.overseas.ncnu.edu.tw/filemtime/macau_education_fair_2019.html">按此連結的“連結”</a>(暫時把連結拿掉)
         
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/MalaysiaEducation">首頁/2020年馬來西亞臺灣高等教育展</a>
 + 二、重要活動資訊-第1點各校上傳水單順序
-    1. <a href="https://school.overseas.ncnu.edu.tw/filemtime/my_education_fair_2020.html">[點此前往]</a>
+    1. <a href="https://school.overseas.ncnu.edu.tw/filemtime/my_education_fair_2020.html">[點此前往]</a>(暫時把連結拿掉)
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/article?page=9">首頁/ARTICLE</a>
 
