@@ -36,11 +36,11 @@
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/friendly-links">首頁/友站連接</a>
 
-1. <a href="http://www.immigration.gov.tw/mp.asp">內政部移民署</a>
-2. <a href="http://www.nca.gov.tw/">內政部役政署</a>
-3. <a href="http://www.nhi.gov.tw/">中央健康保險局</a>
+1. <a href="http://www.immigration.gov.tw/mp.asp">內政部移民署</a>正確URL爲https://www.immigration.gov.tw/
+2. <a href="http://www.nca.gov.tw/">內政部役政署</a>正確URL爲https://www.nca.gov.tw/
+3. <a href="http://www.nhi.gov.tw/">中央健康保險局</a>正確URL爲https://www.nhi.gov.tw/
 4. <a href="http://fsedu.cloud.ncnu.edu.tw/home.aspx
-">教育部外國大學參考名冊查系統</a>
+">教育部外國大學參考名冊查系統</a>正確URL爲https://depart.moe.edu.tw/ed2500/News.aspx?n=E8380E03A0E16960&sms=D2E10027BB4EC183
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/self-enrollment">首頁/單獨招生專區</a>
 
