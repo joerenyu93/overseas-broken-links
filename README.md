@@ -1,12 +1,12 @@
 # 海聯網站失效連結
 
-### <a href="https://cmn-hant.overseas.ncnu.edu.tw/acts">首頁/來台就學相關法規(要將URL的www換成law)</a>
+### <a href="https://cmn-hant.overseas.ncnu.edu.tw/acts">首頁/來台就學相關法規</a>(要將URL的www換成law)
 + 助學金列表
     1. <a href="http://www.ocac.gov.tw/law/LawContent.aspx?id=FL027423">僑務委員會補助僑生工讀金及學習扶助金要點</a>
     2. <a href="http://www.ocac.gov.tw/law/LawContent.aspx?id=FL027428">僑務委員會獎勵學行優良僑生獎學金核發要點</a>
 
 + 醫療保險列表
-    1. <a href="http://www.ocac.gov.tw/law/LawContent.aspx?id=FL027325">僑生傷病醫療保險作業要點，正確URL爲https://law.ocac.gov.tw/law/LawContent.aspx?id=GL000156</a>
+    1. <a href="http://www.ocac.gov.tw/law/LawContent.aspx?id=FL027325">僑生傷病醫療保險作業要點</a>正確URL爲https://law.ocac.gov.tw/law/LawContent.aspx?id=GL000156
     2. <a href="http://www.ocac.gov.tw/law/NewsContent.aspx?id=92">海外回國就學僑生醫療急難及喪葬慰問金發給要點</a>
 
 + 社團活動輔助列表
