@@ -56,7 +56,7 @@
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/admission-notice/2019">首頁/2019 年錄取公告</a>
 
-1. <a href="https://school.overseas.ncnu.edu.tw/result/">中英文姓氏、出生年月日及性別等條件確認錄取結果</a>(暫時把連結拿掉)
+1. <a href="https://school.overseas.ncnu.edu.tw/result/">中英文姓氏、出生年月日及性別等條件確認錄取結果</a>(無法修改文章)
 
 ### <a href="https://cmn-hant.overseas.ncnu.edu.tw/from/philippines">首頁/菲律賓專區</a>
 
